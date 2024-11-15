@@ -2,7 +2,7 @@
   "name": "mark",
   "version": "1.0.0",
   "description": "makeket sofware for billing",
-  "main": "server.js",
+  "main": "backend/server.js",
   "scripts": {
     "start": "nodemon backend/server.js",
     "dev": "set NODE_ENV=development&&nodemon backend/server.js",
